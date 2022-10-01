@@ -1,1 +1,2 @@
 # US-Bikeshare-Data
+# This project is part of a Udacity online course where it is required to make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Code is written to import the data and answer interesting questions about it by computing descriptive statistics. A script that takes in raw input to create an interactive experience in the terminal is written to present these statistics.
